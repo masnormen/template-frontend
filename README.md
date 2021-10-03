@@ -1,8 +1,8 @@
-# 🔥 Frontend Template
+# 🔥 React + Vite Frontend Template
 
 This template can be used to kick-start a frontend project using React and TailwindCSS. It includes prettier, code linting, CSS framework, code output obfuscator, and even GitHub Actions flow that's ready to use and configure yourself.
 
-It will work well especially if you use JetBrains Webstorm, because it takes care of `prettier` and `eslint` automatically.
+It will work well especially if you use JetBrains Webstorm, because it takes care of `prettier` and `eslint` automatically. But with the right configuration, VSCode will work too.
 
 ## What's included:
 
@@ -34,9 +34,10 @@ It will work well especially if you use JetBrains Webstorm, because it takes car
 - Degit/Clone this repository:
   ```shell
   $ degit https://github.com/masnormen/template-frontend
+  ```
+  or if you don't have degit available:
   
-  # or if you don't have degit available:
-  
+  ```shell
   $ git clone https://github.com/masnormen/template-frontend
   ```
 - Install the packages:
